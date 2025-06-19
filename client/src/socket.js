@@ -1,6 +1,6 @@
 import { io } from 'socket.io-client';
 
-const socket = io('http://localhost:5000', {
+const socket = io('https://live-polling-system-backend-ssya.onrender.com', {
   transports: ['websocket'],
 });
 
