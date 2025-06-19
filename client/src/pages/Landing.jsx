@@ -56,7 +56,7 @@ export default function Landing() {
                 I’m a Student
               </Typography>
               <Typography variant="body2">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry
+                Submit answers to polls!
               </Typography>
             </CardContent>
           </Card>
@@ -77,7 +77,7 @@ export default function Landing() {
                 I’m a Teacher
               </Typography>
               <Typography variant="body2">
-                Submit answers and view live poll results in real-time.
+                Generate poll and view live poll results in real-time.
               </Typography>
             </CardContent>
           </Card>
